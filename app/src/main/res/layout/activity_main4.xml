@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#CAC9C9"
+    tools:context=".MainActivity4">
+    <LinearLayout
+        style="@style/matchANDWrap"
+        android:orientation="vertical"
+        android:layout_margin="20dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icono1"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Demonst"
+            android:textAlignment="center"
+            android:textColor="#FFF"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/carga"
+            />
+
+        <LinearLayout
+            style="@style/matchANDWrap"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="181dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icono3" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Demonst"
+                    android:textAlignment="center"
+                    android:textColor="#FFF" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carga" />
+
+            </LinearLayout>
+            <LinearLayout
+                style="@style/matchANDWrap"
+                android:orientation="vertical"
+                android:layout_margin="20dp">
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icono2" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Demonst"
+                    android:textAlignment="center"
+                    android:textColor="#FFF" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carga" />
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            style="@style/matchANDWrap"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="187dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    style="@style/matchANDWrap"
+                    android:src="@drawable/icono5" />
+
+                <TextView
+                    style="@style/matchANDWrap"
+                    android:text="Demonst"
+                    android:textAlignment="center"
+                    android:textColor="#FFF" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carga" />
+
+            </LinearLayout>
+            <LinearLayout
+                style="@style/matchANDWrap"
+                android:orientation="vertical"
+                android:layout_margin="20dp">
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icono6" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Demonst"
+                    android:textAlignment="center"
+                    android:textColor="#FFF" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carga" />
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            style="@style/matchANDWrap"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    style="@style/matchANDWrap"
+                    android:src="@drawable/icono5" />
+
+                <TextView
+                    style="@style/matchANDWrap"
+                    android:text="Demonst"
+                    android:textAlignment="center"
+                    android:textColor="#FFF" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carga" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:orientation="vertical">
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icono6" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Demonst"
+                    android:textAlignment="center"
+                    android:textColor="#FFF" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carga" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="20dp">
+
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icono7" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Demonst"
+                    android:textAlignment="center"
+                    android:textColor="#FFF" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/carga" />
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            style="@style/matchANDWrap"
+            android:orientation="horizontal"
+            android:layout_marginTop="60dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icono7"
+                android:layout_marginRight="10dp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icono7"
+                android:layout_marginRight="10dp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icono7"
+                android:layout_marginRight="10dp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icono7"
+                android:layout_marginRight="10dp"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icono7" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</ScrollView>
